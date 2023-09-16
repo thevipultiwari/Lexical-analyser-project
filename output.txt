@@ -1,0 +1,36 @@
+Line no.	Token no.	Token	Lexeme
+
+      1	      0	Keyword	int
+      1	      1	Keyword	main
+      1	      2	Special symbol	)
+      2	      3	Special symbol	{
+      3	      4	Keyword	int
+      3	      5	Identifier	a
+      3	      6	Digit	1
+      3	      7	Identifier	b
+      3	      8	Digit	2
+      3	      9	Identifier	c
+      3	     10	Digit	3
+      3	     11	Special symbol	;
+      4	     12	Identifier	printf
+      4	     13	Special symbol	%
+      4	     14	Identifier	d
+      4	     15	Special symbol	%
+      4	     16	Identifier	d
+      4	     17	Special symbol	%
+      4	     18	Identifier	d
+      4	     19	Identifier	n
+      4	     20	Identifier	a
+      4	     21	Identifier	b
+      4	     22	Identifier	c
+      4	     23	Special symbol	;
+      5	     24	Identifier	printf
+      5	     25	Identifier	hello
+      5	     26	Identifier	world
+      5	     27	Identifier	n
+      5	     28	Special symbol	)
+      5	     29	Special symbol	;
+      6	     30	Identifier	return
+      6	     31	Digit	0
+      6	     32	Special symbol	;
+      7	     33	Special symbol	}
